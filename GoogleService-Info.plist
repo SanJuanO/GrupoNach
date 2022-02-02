@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>111129080241-2f35vec223344lslparelpc64d62339s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.111129080241-2f35vec223344lslparelpc64d62339s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-I4wxyunJN_lM77fZspMhak6YrfNCzqw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>111129080241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.com.GrupoNach</string>
+	<key>PROJECT_ID</key>
+	<string>gruponach-e68c3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gruponach-e68c3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:111129080241:ios:d599cbe71f5b4cb0040d90</string>
+</dict>
+</plist>

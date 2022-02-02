@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FE2AA7DC-AE44-405F-8B1A-719C97765BAC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB470D4D-A56D-475E-B878-7762BAF76AB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/GraphicViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "makeRequest(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFE3F8CE-28B6-4CB9-99CC-5BD08230B55D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/GraphicViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "makeRequest(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A91E5783-DE26-4E4E-BEDC-C6C3C32DCFB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/GraphicViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "makeRequest(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74EF36B6-20FE-426B-971A-35A8B8EE6448"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96659090-E583-46F3-87BB-0691BED0F58B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/View/LoginTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "placeholder"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA1505FC-2E47-49BC-B412-8B8E39294F3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/View/LoginTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "textRect(forBounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3781236F-D676-4F40-B3EB-2FE230988C31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/View/LoginTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "placeholderRect(forBounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E117EB29-3F79-4671-9CC1-E8E7EACDC99B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/View/LoginTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "placeholderRect(forBounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AC44235-533D-4B18-B55C-E21E364D1613"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/View/LoginTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "placeholderRect(forBounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "image(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - 78964afb987533f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.delegate.getter : Swift.Optional&lt;GrupoNach.ImageViewDelegate&gt;"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - b63ab18203c9784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.delegate.setter : Swift.Optional&lt;GrupoNach.ImageViewDelegate&gt;"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - c4390ad9e1a25a27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.delegate.modify : Swift.Optional&lt;GrupoNach.ImageViewDelegate&gt;"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - 979db0c82fc91939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.delegate.modify : Swift.Optional&lt;GrupoNach.ImageViewDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - a33a5aad93f1922d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GrupoNach.MainViewController"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "79F4C728-5122-43A3-9A1D-9CA05858D8E3 - 5c542eb3edda9672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GrupoNach.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GrupoNach.MainViewController&gt;"
+                  moduleName = "GrupoNach"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oscarsanjuan/Desktop/GrupoNach/GrupoNach/GrupoNach/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DFE02E7-60E9-43FB-BA27-0C7B3B97C2D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GrupoNach/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "image(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

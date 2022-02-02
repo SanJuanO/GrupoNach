@@ -92,7 +92,7 @@ class MainViewController: GeneralViewController, ImageViewDelegate {
             
             let color = UIColor(hexString: color.value as! String)
 
-            self.view.backgroundColor = color
+      //      self.view.backgroundColor = color
 
         })
         let defaults = UserDefaults.standard
@@ -102,7 +102,8 @@ class MainViewController: GeneralViewController, ImageViewDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-      
+        self.view.backgroundColor = .red
+
 
     }
     

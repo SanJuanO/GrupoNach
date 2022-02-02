@@ -25,7 +25,7 @@
 		14DE4E8827A9A70400376020 /* Success.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E8727A9A70400376020 /* Success.swift */; };
 		14DE4E8A27A9A83500376020 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E8927A9A83500376020 /* TableViewCell.swift */; };
 		14DE4E8D27A9A84500376020 /* GeneralTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E8C27A9A84500376020 /* GeneralTableView.swift */; };
-		14DE4E8F27A9A8C100376020 /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E8E27A9A8C100376020 /* LoginTextField.swift */; };
+		14DE4E8F27A9A8C100376020 /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E8E27A9A8C100376020 /* TextField.swift */; };
 		14DE4E9227A9AC9F00376020 /* GeneralNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E9127A9AC9F00376020 /* GeneralNavigationBar.swift */; };
 		14DE4E9427A9C44400376020 /* DocumentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E9327A9C44400376020 /* DocumentView.swift */; };
 		14DE4E9627A9C4EC00376020 /* DocumentsViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE4E9527A9C4EC00376020 /* DocumentsViewDelegate.swift */; };
@@ -60,7 +60,7 @@
 		14DE4E8727A9A70400376020 /* Success.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Success.swift; sourceTree = "<group>"; };
 		14DE4E8927A9A83500376020 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		14DE4E8C27A9A84500376020 /* GeneralTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralTableView.swift; sourceTree = "<group>"; };
-		14DE4E8E27A9A8C100376020 /* LoginTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
+		14DE4E8E27A9A8C100376020 /* TextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
 		14DE4E9127A9AC9F00376020 /* GeneralNavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralNavigationBar.swift; sourceTree = "<group>"; };
 		14DE4E9327A9C44400376020 /* DocumentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DocumentView.swift; sourceTree = "<group>"; };
 		14DE4E9527A9C4EC00376020 /* DocumentsViewDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DocumentsViewDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +88,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		14BB08E027AAEFA900ADB9FB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				14DE4E8E27A9A8C100376020 /* TextField.swift */,
+				14DE4E8027A9A55B00376020 /* AlertView.swift */,
+				14DE4E7527A9A32C00376020 /* HudView.swift */,
+				14DE4E9727A9C51100376020 /* FileReadyView.swift */,
+				14DE4E9327A9C44400376020 /* DocumentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		14BB08E127AAEFD200ADB9FB /* Protocolos */ = {
+			isa = PBXGroup;
+			children = (
+				14DE4E9527A9C4EC00376020 /* DocumentsViewDelegate.swift */,
+			);
+			path = Protocolos;
+			sourceTree = "<group>";
+		};
 		14DE4E4927A99F9E00376020 = {
 			isa = PBXGroup;
 			children = (
@@ -110,16 +130,13 @@
 		14DE4E5427A99F9E00376020 /* GrupoNach */ = {
 			isa = PBXGroup;
 			children = (
-				14DE4E9527A9C4EC00376020 /* DocumentsViewDelegate.swift */,
+				14BB08E127AAEFD200ADB9FB /* Protocolos */,
 				14DE4E8427A9A6F300376020 /* Model */,
 				14DE4E7727A9A35300376020 /* Network */,
 				14DE4E7427A9A31B00376020 /* View */,
-				14DE4E9D27A9CE6700376020 /* ScrollView */,
-				14DE4E9B27A9CE0200376020 /* GraphicViewController.swift */,
 				14DE4E6E27A9A2FD00376020 /* Controller */,
 				14DE4E5527A99F9E00376020 /* AppDelegate.swift */,
 				14DE4E5727A99F9E00376020 /* SceneDelegate.swift */,
-				14DE4E5927A99F9E00376020 /* MainViewController.swift */,
 				14DE4E5E27A99FA400376020 /* Assets.xcassets */,
 				14DE4E6027A99FA400376020 /* LaunchScreen.storyboard */,
 				14DE4E6327A99FA400376020 /* Info.plist */,
@@ -130,6 +147,9 @@
 		14DE4E6B27A9A2DE00376020 /* General */ = {
 			isa = PBXGroup;
 			children = (
+				14DE4E9B27A9CE0200376020 /* GraphicViewController.swift */,
+				14DE4E5927A99F9E00376020 /* MainViewController.swift */,
+				14DE4E9927A9C76B00376020 /* PreviewImageViewController.swift */,
 				14DE4E6C27A9A2DE00376020 /* GeneralViewController.swift */,
 			);
 			path = General;
@@ -138,7 +158,6 @@
 		14DE4E6E27A9A2FD00376020 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				14DE4E9927A9C76B00376020 /* PreviewImageViewController.swift */,
 				14DE4E6F27A9A30E00376020 /* AlertViewController */,
 				14DE4E6B27A9A2DE00376020 /* General */,
 			);
@@ -157,14 +176,10 @@
 		14DE4E7427A9A31B00376020 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				14DE4E9727A9C51100376020 /* FileReadyView.swift */,
-				14DE4E9327A9C44400376020 /* DocumentView.swift */,
+				14DE4E9D27A9CE6700376020 /* ScrollView */,
+				14BB08E027AAEFA900ADB9FB /* View */,
 				14DE4E9027A9AC9F00376020 /* NavigationBar */,
-				14DE4E8E27A9A8C100376020 /* LoginTextField.swift */,
 				14DE4E8B27A9A84500376020 /* TableView */,
-				14DE4E8927A9A83500376020 /* TableViewCell.swift */,
-				14DE4E8027A9A55B00376020 /* AlertView.swift */,
-				14DE4E7527A9A32C00376020 /* HudView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -192,6 +207,7 @@
 		14DE4E8B27A9A84500376020 /* TableView */ = {
 			isa = PBXGroup;
 			children = (
+				14DE4E8927A9A83500376020 /* TableViewCell.swift */,
 				14DE4E8C27A9A84500376020 /* GeneralTableView.swift */,
 			);
 			path = TableView;
@@ -374,7 +390,7 @@
 				14DE4E9A27A9C76B00376020 /* PreviewImageViewController.swift in Sources */,
 				14DE4E8627A9A6FF00376020 /* Error.swift in Sources */,
 				14DE4E5827A99F9E00376020 /* SceneDelegate.swift in Sources */,
-				14DE4E8F27A9A8C100376020 /* LoginTextField.swift in Sources */,
+				14DE4E8F27A9A8C100376020 /* TextField.swift in Sources */,
 				14DE4E9C27A9CE0200376020 /* GraphicViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

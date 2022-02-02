@@ -7,7 +7,7 @@
 
 import UIKit
 
-class LoginTextField: UITextField {
+class TextField: UITextField {
     var colorwhite = true
     private var padding = UIEdgeInsets(top: 30, left: 0, bottom: 10, right: 0)
     

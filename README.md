@@ -50,7 +50,7 @@ ARC Automatic Reference Counting o contador de referencias automáticas en espa�
 
 
 Punto extra
-
+Se vería  de color amarillo, ya que el viewdidload se ejecuta primero por que es cuando carga la memoria ram .
 
 
 

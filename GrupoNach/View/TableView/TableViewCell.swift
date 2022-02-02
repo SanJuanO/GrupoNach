@@ -7,8 +7,8 @@ class TableViewCell: UITableViewCell {
     static let cellName: String = "tableViewCell"
 
 
-    public lazy var usernameTextView: LoginTextField = {
-        let uTextField = LoginTextField()
+    public lazy var usernameTextView: TextField = {
+        let uTextField = TextField()
         uTextField.translatesAutoresizingMaskIntoConstraints = false
         uTextField.autocorrectionType = .no
         uTextField.autocapitalizationType = .none
